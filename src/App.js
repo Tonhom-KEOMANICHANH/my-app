@@ -123,7 +123,6 @@ const App = () => {
           }
         `}
       </style>
-      <p>{currentDay}</p>
     </div>
   );
 };
