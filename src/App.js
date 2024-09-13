@@ -70,8 +70,6 @@ const App = () => {
         return <Day8></Day8>;
       case 9:
         return <Day9></Day9>;
-      case 10:
-        return <Day10></Day10>;
       default:
         return null;
     }
