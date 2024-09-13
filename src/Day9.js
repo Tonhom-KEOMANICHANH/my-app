@@ -28,7 +28,7 @@ const Day9 = () => {
             <div>
 
             </div>
-        
+
             <style jsx>
                 {`
         .counter {
